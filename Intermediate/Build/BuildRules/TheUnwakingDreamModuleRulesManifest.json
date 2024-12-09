@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"D:\\Myproject\\TheUnwakingDream\\Intermediate\\Source\\TheUnwakingDream.Build.cs",
+		"D:\\Myproject\\TheUnwakingDream\\Intermediate\\Source\\TheUnwakingDream.Target.cs",
+		"D:\\Myproject\\TheUnwakingDream\\Intermediate\\Source\\TheUnwakingDreamClient.Target.cs",
+		"D:\\Myproject\\TheUnwakingDream\\Intermediate\\Source\\TheUnwakingDreamEditor.Target.cs",
+		"D:\\Myproject\\TheUnwakingDream\\Intermediate\\Source\\TheUnwakingDreamServer.Target.cs"
+	],
+	"EngineVersion": "5.5.0"
+}
