@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Myproject/TheUnwakingDream/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/__ExternalActors__/firstlevel/7/UQ/JWPROOADJ7G0UI97T38LXL.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/__ExternalActors__/firstlevel/9/0C/JQ2KDNUGA2J0QFTHTBH3I9.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/__ExternalActors__/firstlevel/C/BW/RDNDZLQJ8J8LHVA5XSB175.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/secondlevel.umap",
+				"D:/Myproject/TheUnwakingDream/Content/__ExternalActors__/firstlevel/0/X7/OKPNB02PW6N64FO885D8GA.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/__ExternalActors__/firstlevel/B/2L/8C1PQJYWO287ZE6PCVK9DI.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/Ending/WB_Ending.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/Ending/endingcreditsimage.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/EndingCredit.umap",
+				"D:/Myproject/TheUnwakingDream/Content/NextLevel/BP_Gate1.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/NextLevel/BP_Gate4.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/Notes/NotePickupBP.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/Main/WB_Main.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/Main.umap",
+				"D:/Myproject/TheUnwakingDream/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/lockdoor/BP_OpenDoor.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/lockdoor/BP_DoorKey1.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/lockdoor/BP_LockDoors.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/Flash/BP_BatteryPickUp.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/AI/BP_AI.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/CustomContents/MixamoAnimations/BLBlendSpace.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/CustomContents/MixamoAnimations/Looking.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/ThirdPerson/Blueprints/BP_FootStepNoti.uasset",
+				"D:/Myproject/TheUnwakingDream/Content/Characters/Mannequins/Rigs/ABP_Quinn_PostProcess.uasset"
+			]
+		}
+	]
+}
